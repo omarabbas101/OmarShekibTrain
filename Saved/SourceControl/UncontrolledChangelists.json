@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/omar4/Documents/GitHub/Team5/OmarShekibTrain/Content/THETRAIN.umap"
+				"C:/Users/omar4/Documents/GitHub/Team5/OmarShekibTrain/Content/THETRAIN.umap",
+				"C:/Users/omar4/Documents/GitHub/Team5/OmarShekibTrain/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/omar4/Documents/GitHub/Team5/OmarShekibTrain/Content/Floor_Blueprint.uasset",
+				"C:/Users/omar4/Documents/GitHub/Team5/OmarShekibTrain/Content/groundtile.uasset"
 			]
 		}
 	]
